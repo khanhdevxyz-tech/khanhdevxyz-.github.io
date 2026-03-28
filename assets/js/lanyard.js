@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const userId = '1028148845399511141'; // 👉 đổi ID Discord ở đây
+  const userId = '1190852099454554187'; // 👉 đổi ID Discord ở đây
   const apiUrl = `https://api.lanyard.rest/v1/users/${userId}`;
   
   const avatar = document.getElementById('discord-avatar');
